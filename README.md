@@ -2,6 +2,9 @@
 
 Credit Card Application is a java application which allows user to add the Credit Card details and view them as a list. It is a RESTful API.
 
+It is monoRepo contains two folders creditCardAppBackend - Rest Api and creditCardAppUi - dummy consumer application
+Details below are for creditCardAppBackend.
+
 **Tech Stack :**
 
 Java - 8,
